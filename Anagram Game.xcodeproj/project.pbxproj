@@ -12,6 +12,7 @@
 		49095B9F1EB6C5E5002D49E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49095B9D1EB6C5E5002D49E0 /* Main.storyboard */; };
 		49095BA11EB6C5E5002D49E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49095BA01EB6C5E5002D49E0 /* Assets.xcassets */; };
 		49095BA41EB6C5E5002D49E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49095BA21EB6C5E5002D49E0 /* LaunchScreen.storyboard */; };
+		49095BAC1EB6C5F3002D49E0 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 49095BAB1EB6C5F3002D49E0 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		49095BA01EB6C5E5002D49E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49095BA31EB6C5E5002D49E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49095BA51EB6C5E5002D49E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49095BAB1EB6C5F3002D49E0 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				49095B9D1EB6C5E5002D49E0 /* Main.storyboard */,
 				49095BA01EB6C5E5002D49E0 /* Assets.xcassets */,
 				49095BA21EB6C5E5002D49E0 /* LaunchScreen.storyboard */,
+				49095BAB1EB6C5F3002D49E0 /* start.txt */,
 				49095BA51EB6C5E5002D49E0 /* Info.plist */,
 			);
 			path = "Anagram Game";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49095BA41EB6C5E5002D49E0 /* LaunchScreen.storyboard in Resources */,
+				49095BAC1EB6C5F3002D49E0 /* start.txt in Resources */,
 				49095BA11EB6C5E5002D49E0 /* Assets.xcassets in Resources */,
 				49095B9F1EB6C5E5002D49E0 /* Main.storyboard in Resources */,
 			);
